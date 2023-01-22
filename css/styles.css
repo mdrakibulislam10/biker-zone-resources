@@ -1,3 +1,7 @@
 .bg-BZR-header {
     background: #264653;
 }
+
+.black-and-white-BZR-img {
+    filter: grayscale(1);
+}
