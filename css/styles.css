@@ -5,3 +5,7 @@
 .black-and-white-BZR-img {
     filter: grayscale(1);
 }
+
+.hover-BZR-btn:hover {
+    color: white;
+}
